@@ -16,8 +16,7 @@ using ToDoList.Model;
 
 namespace ToDoList.Test
 {
-    //[Collection(nameof(ToDoListFixture))]
-    //public class ToDoListGet :  IDisposable
+
     public class ToDoListGet : IClassFixture<ToDoListFixture>, IDisposable
     {
 

@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\tests\\todolist.test\\todolistfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|solutionrelative:tests\\todolist.test\\todolistfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\tests\\todolist.test\\todolistget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|solutionrelative:tests\\todolist.test\\todolistget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\tests\\todolist.test\\todolistput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|solutionrelative:tests\\todolist.test\\todolistput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\tests\\todolist.test\\todolistdelet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|solutionrelative:tests\\todolist.test\\todolistdelet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\tests\\todolist.test\\todolistpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19A72F4-A10F-4A1F-AAF6-E968E7130082}|tests\\ToDoList.Test\\ToDoList.Test.csproj|solutionrelative:tests\\todolist.test\\todolistpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\controller\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controller\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\model\\tarefasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\model\\tarefasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\migrations\\20250314140902_adicionandocolunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\20250314140902_adicionandocolunas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\migrations\\20250314175245_adicionandocolunasdestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\20250314175245_adicionandocolunasdestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\migrations\\20250314180635_incluindopossiveisstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\20250314180635_incluindopossiveisstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\migrations\\20250314175904_modificandocolunadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\20250314175904_modificandocolunadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|c:\\users\\humberto\\desktop\\pratica\\c#\\todolist\\todolist\\migrations\\20250313004225_criandobancoetabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62F372-DFE0-4D44-8402-C8A60C11EB0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\20250313004225_criandobancoetabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:31:49.902Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Service\\TokenService.cs",
+              "RelativeToolTip": "ToDoList\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:33:10.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoListPut.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListPut.cs",
+              "RelativeDocumentMoniker": "tests\\ToDoList.Test\\ToDoListPut.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListPut.cs",
+              "RelativeToolTip": "tests\\ToDoList.Test\\ToDoListPut.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:40:13.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoListFixture.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListFixture.cs",
+              "RelativeDocumentMoniker": "tests\\ToDoList.Test\\ToDoListFixture.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListFixture.cs",
+              "RelativeToolTip": "tests\\ToDoList.Test\\ToDoListFixture.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:33:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoListGet.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListGet.cs",
+              "RelativeDocumentMoniker": "tests\\ToDoList.Test\\ToDoListGet.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListGet.cs",
+              "RelativeToolTip": "tests\\ToDoList.Test\\ToDoListGet.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:06:42.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoListDelet.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListDelet.cs",
+              "RelativeDocumentMoniker": "tests\\ToDoList.Test\\ToDoListDelet.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListDelet.cs",
+              "RelativeToolTip": "tests\\ToDoList.Test\\ToDoListDelet.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:17:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoListPost.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListPost.cs",
+              "RelativeDocumentMoniker": "tests\\ToDoList.Test\\ToDoListPost.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\tests\\ToDoList.Test\\ToDoListPost.cs",
+              "RelativeToolTip": "tests\\ToDoList.Test\\ToDoListPost.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:28:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ToDoList\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:51:50.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Model\\UserModel.cs",
+              "RelativeToolTip": "ToDoList\\Model\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:16:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Controller\\TarefasController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controller\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Controller\\TarefasController.cs",
+              "RelativeToolTip": "ToDoList\\Controller\\TarefasController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAWwGIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T00:48:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Controller\\AuthController.cs",
+              "RelativeToolTip": "ToDoList\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:16:40.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TarefasModel.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Model\\TarefasModel.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Model\\TarefasModel.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Model\\TarefasModel.cs",
+              "RelativeToolTip": "ToDoList\\Model\\TarefasModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:59:49.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:29.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250314180635_IncluindoPossiveisStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314180635_IncluindoPossiveisStatus.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\20250314180635_IncluindoPossiveisStatus.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314180635_IncluindoPossiveisStatus.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\20250314180635_IncluindoPossiveisStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:28.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeToolTip": "ToDoList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T21:24:29.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250314175904_ModificandoColunaData.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314175904_ModificandoColunaData.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\20250314175904_ModificandoColunaData.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314175904_ModificandoColunaData.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\20250314175904_ModificandoColunaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:27.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250314175245_AdicionandoColunasDeStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314175245_AdicionandoColunasDeStatus.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\20250314175245_AdicionandoColunasDeStatus.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314175245_AdicionandoColunasDeStatus.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\20250314175245_AdicionandoColunasDeStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:27.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250314140902_adicionandoColunas.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314140902_adicionandoColunas.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\20250314140902_adicionandoColunas.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250314140902_adicionandoColunas.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\20250314140902_adicionandoColunas.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:26.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250313004225_CriandoBancoETabela.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250313004225_CriandoBancoETabela.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\20250313004225_CriandoBancoETabela.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Migrations\\20250313004225_CriandoBancoETabela.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\20250313004225_CriandoBancoETabela.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:52:25.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Configuration.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Humberto\\Desktop\\Pratica\\C#\\ToDoList\\ToDoList\\Configuration.cs",
+              "RelativeToolTip": "ToDoList\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:09:00.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

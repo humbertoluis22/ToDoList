@@ -1,4 +1,4 @@
-﻿using Bogus;
+using Bogus;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.EntityFrameworkCore;
@@ -33,25 +33,29 @@ namespace ToDoList.Test
             Context.Database.Migrate();
 
         }
-
         protected override void ConfigureWebHost(IWebHostBuilder builder)
         {
             builder.ConfigureServices(services =>
             {
                 services.RemoveAll(typeof(DbContextOptions<AppDbContext>));
-                services.AddDbContext<AppDbContext>(options =>
-                options.UseSqlServer("Server=PCHUMBERTO;" +
-                "Database=BaseToDoListTest;" +
-                "User Id=Humberto;" +
-                "Password=Humberto;" +
-                "TrustServerCertificate=True")
-                );
 
+                services.AddDbContext<AppDbContext>(options =>
+                    options.UseSqlServer(
+                        "Data Source=(localdb)\\MSSQLLocalDB;" +
+                        "Initial Catalog=BaseToDoListTest;" +
+                        "Integrated Security=True;" +
+                        "Connect Timeout=30;" +
+                        "Encrypt=False;" +
+                        "TrustServerCertificate=False;" +
+                        "Application Intent=ReadWrite;" +
+                        "Multi Subnet Failover=False;"
+                    )
+                );
             });
+
             base.ConfigureWebHost(builder);
         }
 
-        
         public void LimparDadosBanco()
         {
             Context.Database.ExecuteSqlRaw("DELETE FROM Tarefas");

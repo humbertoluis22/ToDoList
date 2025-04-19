@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
+using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,13 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using ToDoList.Data;
 using ToDoList.Model;
+
+
+//options.UseSqlServer("Server=PCHUMBERTO;" +
+//               "Database=BaseToDoListTest;" +
+//               "User Id=Humberto;" +
+//               "Password=Humberto;" +
+//               "TrustServerCertificate=True")
 
 namespace ToDoList.Test
 {
@@ -33,25 +41,29 @@ namespace ToDoList.Test
             Context.Database.Migrate();
 
         }
-
         protected override void ConfigureWebHost(IWebHostBuilder builder)
         {
             builder.ConfigureServices(services =>
             {
                 services.RemoveAll(typeof(DbContextOptions<AppDbContext>));
-                services.AddDbContext<AppDbContext>(options =>
-                options.UseSqlServer("Server=PCHUMBERTO;" +
-                "Database=BaseToDoListTest;" +
-                "User Id=Humberto;" +
-                "Password=Humberto;" +
-                "TrustServerCertificate=True")
-                );
 
+                services.AddDbContext<AppDbContext>(options =>
+                    options.UseSqlServer(
+                        "Data Source=(localdb)\\MSSQLLocalDB;" +
+                        "Initial Catalog=BaseToDoListTest;" +
+                        "Integrated Security=True;" +
+                        "Connect Timeout=30;" +
+                        "Encrypt=False;" +
+                        "TrustServerCertificate=False;" +
+                        "Application Intent=ReadWrite;" +
+                        "Multi Subnet Failover=False;"
+                    )
+                );
             });
+
             base.ConfigureWebHost(builder);
         }
 
-        
         public void LimparDadosBanco()
         {
             Context.Database.ExecuteSqlRaw("DELETE FROM Tarefas");

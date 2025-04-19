@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using ToDoList.Data;
+using ToDoList.Log;
 using ToDoList.Model;
 
 namespace ToDoList.Controller
@@ -56,8 +57,10 @@ namespace ToDoList.Controller
             var tarefas =  await _context.Tarefas.ToListAsync();
             if (tarefas.Count() == 0)
             {
-                    return NotFound("Nenhuma tarefa encontrada");
+                Logs.LogToFIle("RecolherTarefas - NotFound", "Nenhuma tarefa encontrada");
+                return NotFound("Nenhuma tarefa encontrada");
             }
+            Logs.LogToFIle("RecolherTarefas - Sucesso", "Tarefas encontradas com sucesso");
             return Ok(tarefas);
         }
 
